@@ -1,1 +1,1 @@
-# SIGNMON - Releae Candidate
+# SIGNMON - Release Candidate
