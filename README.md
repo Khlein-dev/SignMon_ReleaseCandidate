@@ -1,1 +1,4 @@
-# SIGNMON - Release Candidate
+# Mini-Pay App
+
+For hackathon
+
